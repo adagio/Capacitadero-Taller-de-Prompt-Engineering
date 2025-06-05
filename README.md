@@ -35,6 +35,4 @@ Esto nos permitirá tener familiaridad con los textos que la IA trabajará para 
 1. Introducción
 2. Principios básicos
 3. Proceso iterativo
-4. Prompt para Resumir
-5. Prompt para Inferir
 ```
