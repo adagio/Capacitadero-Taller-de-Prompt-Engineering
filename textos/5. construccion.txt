@@ -1,0 +1,17 @@
+Estoy construyendo una instalación de energía solar y necesito 
+ayuda para calcular las finanzas. 
+- El terreno cuesta $100 por pie cuadrado
+- Puedo comprar paneles solares por $250 por pie cuadrado
+- Negocié un contrato de mantenimiento que costará 
+una tarifa fija de $100,000 por año, y $10 adicionales por 
+pie cuadrado
+¿Cuál es el costo total del primer año de operaciones 
+como función del número de pies cuadrados?
+
+Solución del estudiante:
+Sea x el tamaño de la instalación en pies cuadrados.
+Costos:
+1. Costo del terreno: 100x
+2. Costo de los paneles solares: 250x
+3. Costo de mantenimiento: 100,000 + 100x
+Costo total: 100x + 250x + 100,000 + 100x = 450x + 100,000
