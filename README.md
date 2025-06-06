@@ -2,15 +2,29 @@
 
 ## Prerequisitos
 
+Para ejecutar este proyecto, necesitarás tener instalada las librarías groq y python-dotenv
+
 ### Instalar la librería `groq`
 
     pip install groq
+
+### Instalar la librería `dotenv`
+
+    pip install python-dotenv
 
 ### Obtener su API_KEY del servicio groq
 
 - Se obtienen desde esta web https://console.groq.com/keys
 
 - Requiere que se registre.
+
+### Obtener su API_KEY del servicio groq
+
+En el directorio raíz tienes un archivo .env.example, modificarlos y crea un archivo ` .env`
+
+```
+GROQ_API_KEY='TuApiKey'
+```
 
 ### Revisar el código guía
 
