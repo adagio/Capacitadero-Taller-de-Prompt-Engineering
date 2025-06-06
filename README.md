@@ -16,6 +16,10 @@
 
 Esto nos permitirá tener familiaridad con la estructura general de código que se explicará en el taller
 
+### Versión de Python
+
+Se requiere mínimo la versión 3.8
+
 ### Revisar los textos adjuntos
 
 Esto nos permitirá tener familiaridad con los textos que la IA trabajará para nosotros. Se encuentran en el directorio de nombre "textos"
@@ -35,6 +39,4 @@ Esto nos permitirá tener familiaridad con los textos que la IA trabajará para 
 1. Introducción
 2. Principios básicos
 3. Proceso iterativo
-4. Prompt para Resumir
-5. Prompt para Inferir
 ```
